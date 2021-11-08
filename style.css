@@ -1,0 +1,73 @@
+body {
+  background-image: url('D:/Giga Pudding 2.0/HTML Projects/coding challenge/background.jpg');
+  background-size: cover;
+}
+
+.container {
+  width: 1000px;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 70px;
+  border-radius: 20px;
+}
+
+.logo {
+  text-align: center;
+  width: 180px;
+  height: auto;
+}
+
+.introduction {
+  color: limegreen;
+  font-family: helvetica;
+  font-weight: bold;
+  font-size: 25px;
+  text-align: center;
+}
+
+nav {
+  background-color: limegreen;
+  text-align: center;
+  padding: 10px;
+}
+
+.monopattini {
+  color: white;
+  font-family: helvetica;
+  font-weight: normal;
+  font-size: 20px;
+  padding-top: 15px;
+}
+
+.contenuto {
+  color: white;
+  font-family: helvetica;
+  font-weight: lighter;
+  font-size: 15px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+}
+
+.caricagino {
+  width: 32%;
+  margin: left;
+  background-color: orange;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.caricamike {
+  width: 53%;
+  margin: left;
+  background-color: limegreen;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.caricafede {
+  width: 15%;
+  margin: left;
+  background-color: red;
+  padding: 10px;
+  border-radius: 4px;
+}
